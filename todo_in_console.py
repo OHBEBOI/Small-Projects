@@ -6,7 +6,7 @@ import os
 
 #globals
 Done = True
-path = 'C:\\Users\\ARNAV\\Documents\\Python\\misc'
+path = ''
 n_todo = '\\todo.bin'
 n_done = '\\done.bin'
 
